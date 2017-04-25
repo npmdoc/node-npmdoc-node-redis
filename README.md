@@ -1,4 +1,7 @@
-# api documentation for  [node-redis (v0.1.7)](https://github.com/Tim-Smart/node-redis#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-redis.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-redis) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-redis.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-redis)
+# npmdoc-node-redis
+
+#### basic api documentation for  [node-redis (v0.1.7)](https://github.com/Tim-Smart/node-redis#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-redis.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-redis) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-redis.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-redis)
+
 #### Lightweight, fast, Redis client.
 
 [![NPM](https://nodei.co/npm/node-redis.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-redis)
@@ -54,7 +57,8 @@
         "type": "git",
         "url": "git+ssh://git@github.com/Tim-Smart/node-redis.git"
     },
-    "version": "0.1.7"
+    "version": "0.1.7",
+    "bin": {}
 }
 ```
 
